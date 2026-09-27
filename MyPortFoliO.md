@@ -1,4 +1,4 @@
-<img src="https://github.com/164138-chatat/MyPort/blob/main/1.png"/>
+<img src="https://github.com/164138-chatat/MyPort/blob/main/1.png?raw=true"/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
